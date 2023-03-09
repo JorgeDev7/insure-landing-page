@@ -100,7 +100,7 @@ function App() {
               className='hidden md:block absolute left-0 -bottom-96 -z-20'
             />
             <h2
-              className='pt-20 font-dm-serif-display font-normal text-5xl md:text-7xl text-very-light-gray before:block before:h-0.5 before:mb-10 before:w-36 before:bg-very-light-gray'
+              className='pt-20 font-dm-serif-display font-normal text-5xl md:text-7xl text-very-light-gray md:before:block md:before:h-0.5 md:before:mb-10 md:before:w-36 md:before:bg-very-light-gray'
             >Humanizing your insurance.</h2>
             <p className=' text-very-light-gray pt-5 text-sm pb-7'>Get your life insurance coverage easier and faster. We blend our expertise
               and technology to help you find the plan that’s right for you. Ensure you
